@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="RCB logo">
+  <defs>
+    <linearGradient id="rcbRed" x1="0" x2="1">
+      <stop offset="0%" stop-color="#d1001f"/>
+      <stop offset="100%" stop-color="#9b0018"/>
+    </linearGradient>
+  </defs>
+  <circle cx="110" cy="110" r="96" fill="#0d0d0d"/>
+  <circle cx="110" cy="110" r="82" fill="url(#rcbRed)"/>
+  <path d="M72 146c14-16 30-25 38-25 8 0 24 9 38 25v-72c-12-11-23-18-38-18s-26 7-38 18v72Z" fill="#fff" opacity="0.92"/>
+  <path d="M88 128c8-9 16-13 22-13 6 0 14 4 22 13" fill="none" stroke="#0d0d0d" stroke-width="6" stroke-linecap="round"/>
+  <path d="M90 90h40" stroke="#0d0d0d" stroke-width="8" stroke-linecap="round"/>
+  <text x="110" y="170" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#ffffff">RCB</text>
+</svg>

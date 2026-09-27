@@ -1,0 +1,29 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  margin: 0;
+  min-height: 100%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fcfae5;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  text-align: center;
+  color: #182b49;
+  margin: 32px 0;
+  font-size: 48px;
+}
